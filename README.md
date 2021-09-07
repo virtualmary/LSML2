@@ -31,12 +31,18 @@ The trained model was used to build a web server (using Flask) to create an inte
 ## Files in this GitHub
 LSML2_final_project.ipynb - overview
 
-Cat_breeds_train.ipynb - notebook for training (intended to be used on Colab
+Cat_breeds_train.ipynb - notebook for training (intended to be used on Colab)
+
 model/cats_model_stated - saved weights for the trained model
+
 model/cat_model_class_names - names of breeds
+
 cat_breeds_inference.py - source code for the HTML frontend
+
 dockerfile - dockerfile for building Docker container with the service
+
 requirements.txt - requirements needed to build the container
+
 static and templates folders - needed for the HTML fronted operation
 
 ## Run instructions: training
