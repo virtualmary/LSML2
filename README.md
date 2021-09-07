@@ -1,5 +1,5 @@
 # LSML 2 Final Project
-## Overwiev
+## Overview
 The task which is solved with the model is classification of cat breeds.
 The model should function as a web interface (HTML frontend) where the user can upload a photo of a cat and receive a prediction of TOP5 breeds with their probabilities.
 ## The task
