@@ -30,6 +30,7 @@ The trained model was used to build a web server (using Flask) to create an inte
 
 ## Files in this GitHub
 LSML2_final_project.ipynb - overview
+
 Cat_breeds_train.ipynb - notebook for training (intended to be used on Colab
 model/cats_model_stated - saved weights for the trained model
 model/cat_model_class_names - names of breeds
