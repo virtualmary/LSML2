@@ -51,7 +51,7 @@ static and templates folders - needed for the HTML fronted operation
 2. Upload Cat_breeds_train.ipynb to Google Colab and run
 
 ## Run instructions: using model (HTML front end)
-Build and runa docker container from this Git Hub local copy folder with the command
+Build and run a docker container from this Git Hub local copy folder with the command
 
 docker build -t ml_server .  
 docker run -p 8000:8000 ml_server 
